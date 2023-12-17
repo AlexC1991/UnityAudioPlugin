@@ -6,12 +6,12 @@ This is a Tutorial Of How to Use It.
 How to use Audio Plugin within Unity
 
 
-Step One - import the folder from the github repo.
+Step One - import the files from the github repo.
 
 
 
 
-Step Two - Insert the downloaded github repo folder in your Assets Folder of your project.
+Step Two - Insert the downloaded github repo files in your Assets Folder of your project.
 
 
 
