@@ -16,7 +16,7 @@ Step Two - Insert the downloaded github repo files in your Assets Folder of your
 
 
 
-Step Three - In the Menu Options in the top toolbar you should see Audio Plugin. Go into that Window and click the first option.
+Step Three - In the Menu Options inside of Unity in the top toolbar you should see Audio Plugin. Go into that Window and click the first option.
 
 
 
